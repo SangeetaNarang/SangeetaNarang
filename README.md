@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SangeetaNarang
-- 👀 I’m interested in digital repositories creation and management
-- 🌱 I advocate for open access to resources and research data in health sciences.
-- 💞️ I’m looking to collaborate on building sustainable repositories of electronic resources in health sciences
+- 👀 I’m interested in developing digital repositories and promoting informatin access
+- 🌱 I strongly advocate for open access to resources and research data in health sciences.
+- 💞️ I’m looking forward to collaborate on building sustainable repositories of electronic resources in health sciences
 - 📫 You can reach me at sangeeta.bbdl@gmai.com
 
 <!---
