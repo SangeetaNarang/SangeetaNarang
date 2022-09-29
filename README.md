@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing digital repositories and in building resourceful libraries.
 - 🌱 I strongly advocate for open access to resources and research data in health sciences.
 - 💞️ I’m looking forward to collaborate on building sustainable repositories of electronic resources in health sciences
-- 📫 You can reach me at sangeeta.bbdl@gmai.com
+- 📫 You can reach me at sangeeta.bbdl@gmail.com
 
 <!---
 SangeetaNarang/SangeetaNarang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
